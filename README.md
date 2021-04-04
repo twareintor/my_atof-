@@ -1,6 +1,9 @@
 # my_atof-
 more than two versions of my atof function: fast, precise and (possibly) reliable
 
+Remember: this will be part of a bigger project for an expression evaluator to be used in video games, for both user input and for refection/ machine learning.
+This is also good for other applications, obviously in automation industry, robotics automatic code generation at runtime.
+
 //Permanent link: https://rextester.com/IPOV29329
 //REVISION OF: https://rextester.com/GSPA46703: bugs removed in y_atof2()
 // to accept expressios like " - 12.24999" or " +   12.24999" -with sign
