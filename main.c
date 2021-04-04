@@ -15,6 +15,7 @@
  * If you don't understand why is this good for and why not to use alternatives like 
  * 'atof()' (which also requires additional linking, beside not being standard C) or
  * sscanf(), you don't need it and you're free to use alternatives. Good luck!
+ * NOTE: if the expression to be evaluated is ill-formed the result is undefined
  * DISCLAIMER: NOT FULLY TESTED OR IMPLEMENTED. USE AT OWN RISK
  */
 float y_atof(char const* szExpr, int const exprLen)
